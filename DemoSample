@@ -28,3 +28,9 @@ class two {
 	}
 }
 
+class three {
+public void america() {
+System.out.println("This is America");
+	}
+}
+
