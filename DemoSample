@@ -1,0 +1,30 @@
+package DemoSample;
+
+public class BasicProg {
+
+	public static void main(String[] args) {
+		System.out.println("This is Beginning");
+		one t1=new one();
+		t1.chennai();
+		t1.bangalore();
+		two.mumbai();
+
+	}
+
+}
+
+class one {
+	public void chennai() {
+		System.out.println("This is Chennai");
+	}
+public void bangalore() {
+	System.out.println("This is Bangalore");
+}
+}
+
+class two {
+	public static void mumbai() {
+		System.out.println("This is Mumbai");
+	}
+}
+
